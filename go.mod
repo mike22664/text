@@ -8,8 +8,8 @@ require (
 	github.com/go-logr/logr v0.4.0
 	github.com/google/uuid v1.3.0
 	github.com/maxbrunsfeld/counterfeiter/v6 v6.4.1
-	github.com/michaelklishin/rabbit-hole/v2 v2.11.0
-	github.com/onsi/ginkgo v1.16.4
+	github.com/michaelklishin/rabbit-hole/v2 v2.12.0
+	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.16.0
 	github.com/rabbitmq/cluster-operator v1.8.3
 	k8s.io/api v0.21.3
@@ -54,7 +54,7 @@ require (
 	github.com/evanphx/json-patch v4.11.0+incompatible // indirect
 	github.com/fatih/color v1.12.0 // indirect
 	github.com/form3tech-oss/jwt-go v3.2.3+incompatible // indirect
-	github.com/fsnotify/fsnotify v1.4.9 // indirect
+	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/fullstorydev/grpcurl v1.8.1 // indirect
 	github.com/go-errors/errors v1.0.1 // indirect
 	github.com/go-logr/zapr v0.4.0 // indirect
@@ -139,9 +139,9 @@ require (
 	go.uber.org/zap v1.18.1 // indirect
 	golang.org/x/crypto v0.0.0-20210506145944-38f3c27a63bf // indirect
 	golang.org/x/mod v0.4.2 // indirect
-	golang.org/x/net v0.0.0-20210520170846-37e1c6afe023 // indirect
+	golang.org/x/net v0.0.0-20210805182204-aaa1db679c0d // indirect
 	golang.org/x/oauth2 v0.0.0-20210427180440-81ed05c6b58c // indirect
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
+	golang.org/x/sys v0.0.0-20211031064116-611d5d643895 // indirect
 	golang.org/x/term v0.0.0-20210220032956-6a3ed077a48d // indirect
 	golang.org/x/text v0.3.6 // indirect
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac // indirect
