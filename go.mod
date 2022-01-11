@@ -9,9 +9,9 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/maxbrunsfeld/counterfeiter/v6 v6.4.1
 	github.com/michaelklishin/rabbit-hole/v2 v2.11.0
-	github.com/onsi/ginkgo v1.16.4
+	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.16.0
-	github.com/rabbitmq/cluster-operator v1.8.3
+	github.com/rabbitmq/cluster-operator v1.10.0
 	k8s.io/api v0.21.3
 	k8s.io/apimachinery v0.21.3
 	k8s.io/client-go v0.21.3
@@ -21,7 +21,7 @@ require (
 	sigs.k8s.io/controller-runtime v0.9.6
 	sigs.k8s.io/controller-runtime/tools/setup-envtest v0.0.0-20210623192810-985e819db7af
 	sigs.k8s.io/controller-tools v0.6.2
-	sigs.k8s.io/kustomize/kustomize/v4 v4.3.0
+	sigs.k8s.io/kustomize/kustomize/v4 v4.4.0
 )
 
 require (
@@ -54,7 +54,7 @@ require (
 	github.com/evanphx/json-patch v4.11.0+incompatible // indirect
 	github.com/fatih/color v1.12.0 // indirect
 	github.com/form3tech-oss/jwt-go v3.2.3+incompatible // indirect
-	github.com/fsnotify/fsnotify v1.4.9 // indirect
+	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/fullstorydev/grpcurl v1.8.1 // indirect
 	github.com/go-errors/errors v1.0.1 // indirect
 	github.com/go-logr/zapr v0.4.0 // indirect
@@ -161,9 +161,9 @@ require (
 	k8s.io/component-base v0.21.3 // indirect
 	k8s.io/gengo v0.0.0-20201214224949-b6c5ce23f027 // indirect
 	k8s.io/klog/v2 v2.9.0 // indirect
-	sigs.k8s.io/kustomize/api v0.9.0 // indirect
-	sigs.k8s.io/kustomize/cmd/config v0.10.0 // indirect
-	sigs.k8s.io/kustomize/kyaml v0.11.1 // indirect
+	sigs.k8s.io/kustomize/api v0.10.0 // indirect
+	sigs.k8s.io/kustomize/cmd/config v0.10.1 // indirect
+	sigs.k8s.io/kustomize/kyaml v0.12.0 // indirect
 	sigs.k8s.io/structured-merge-diff/v4 v4.1.2 // indirect
 	sigs.k8s.io/yaml v1.2.0 // indirect
 )
